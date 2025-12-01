@@ -181,8 +181,8 @@ BajajTest/
 {
   "name": "Amit Gunjan Jha",
   "regNo": "22BSA10090",
-  "email": "amitgunjanjha799@gmail.com``
-
+  "email": "amitgunjanjha799@gmail.com"
+'''
 **Response**:
 ```json
 {
@@ -190,14 +190,6 @@ BajajTest/
   "accessToken": "BHFL_REG001_F8A2D7E4B1C9"
 }
 ```
-
-### Example 2: Another Request
-```json
-{
-  "name": "Bob Smith",
-  "regNo": "REG002",
-  "email": "bob.smith@example.com"
-}
 ```
 
 **Response**:
@@ -251,5 +243,6 @@ For any queries or issues, please open an issue on GitHub.
 ---
 
 **Made with ❤️ for Bajaj Finserv Health Challenge**
+
 
 
