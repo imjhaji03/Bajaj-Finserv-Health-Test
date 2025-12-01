@@ -108,9 +108,9 @@ Content-Type: application/json
 **Request Body**:
 ```json
 {
-  "name": "John Doe",
-  "regNo": "12345678",
-  "email": "john.doe@example.com"
+  "name": "Amit Gunjan Jha",
+  "regNo": "22BSA10090",
+  "email": "amitgunjanjha799@gmail.com"
 }
 ```
 
@@ -181,11 +181,9 @@ BajajTest/
 ### Example 1: Basic Request
 ```json
 {
-  "name": "Alice Johnson",
-  "regNo": "REG001",
-  "email": "alice.j@example.com"
-}
-```
+  "name": "Amit Gunjan Jha",
+  "regNo": "22BSA10090",
+  "email": "amitgunjanjha799@gmail.com``
 
 **Response**:
 ```json
@@ -246,7 +244,7 @@ This project is created for the Bajaj Finserv Health Challenge.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/imjhaji03)
 
 ## 📞 Support
 
@@ -255,3 +253,4 @@ For any queries or issues, please open an issue on GitHub.
 ---
 
 **Made with ❤️ for Bajaj Finserv Health Challenge**
+
