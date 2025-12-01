@@ -88,9 +88,7 @@ http://localhost:8080
 "Webhook endpoint is working! Use POST method with request body containing name, regNo, and email."
 ```
 
-**Example Screenshot**:
 
-![Postman GET Request](postman_get_test.png)
 
 ---
 
@@ -253,4 +251,5 @@ For any queries or issues, please open an issue on GitHub.
 ---
 
 **Made with ❤️ for Bajaj Finserv Health Challenge**
+
 
